@@ -8,7 +8,7 @@ Passionate about coding and always up to learn about new technologies.
 
 - Ask me about <strong>JavaScript, HTML, CSS</strong>
 - Currently studying React
-
+  "\n"
 <div>
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
