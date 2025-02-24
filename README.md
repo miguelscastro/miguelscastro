@@ -4,7 +4,11 @@
   <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-Passionate about coding and always up to learn about new technologies.<br><br>Ask me about JavaScript, HTML, CSS<br>Currently studying React
+Passionate about coding and always up to learn about new technologies.<br>
+<br>
+Ask me about JavaScript, HTML, CSS
+<br>
+- Currently studying React
 
 
 #
