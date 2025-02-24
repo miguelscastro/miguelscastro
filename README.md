@@ -19,7 +19,6 @@ Passionate about coding and always up to learn about new technologies.<br><br>As
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
-![](https://github-readme-stats.vercel.app/api?username=silvaamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
