@@ -16,3 +16,8 @@ Passionate about coding and always up to learn about new technologies.
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake.svg" />
+</picture>
