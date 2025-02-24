@@ -7,7 +7,7 @@
 Passionate about coding and always up to learn about new technologies.<br><br>Ask me about JavaScript, HTML, CSS<br>Currently studying React
 
 
-# 💻 Tech Stack:
+#
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -19,8 +19,8 @@ Passionate about coding and always up to learn about new technologies.<br><br>As
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+#![](https://github-readme-stats.vercel.app/api/top-langs/username=silvaamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake.svg" />
