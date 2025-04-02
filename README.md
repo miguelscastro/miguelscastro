@@ -22,10 +22,3 @@ Ask me about JavaScript, HTML, CSS
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-
-#
-#<picture>
-#<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake-dark.svg" />
-#<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake.svg" />
-#<img alt="github-snake" src="https://raw.githubusercontent.com/silvaamc/silvaamc/output/github-snake.svg" />
-#</picture> 
