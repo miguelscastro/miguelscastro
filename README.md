@@ -3,7 +3,7 @@
   <a href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<br>
 I've been self-taught for the past 4 years and now i'm graduating on Internet Systems. I'm most familiar with the Javascript Ecossystem.
 <br>
 
