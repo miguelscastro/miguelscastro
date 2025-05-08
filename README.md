@@ -3,11 +3,10 @@
   <a href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
-I've been self-taught for the past 4 years and now i'm graduating on Internet Systems. 
-<br>
 
-- Currently studying Java, React
+<br>
+I’ve been self-taught for over four years and am currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications. I'm always up for new challenges.
+<br>
 
 ## Stack
 <div align="left">
