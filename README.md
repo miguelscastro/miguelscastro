@@ -2,10 +2,10 @@
 Internet Systems Student
 <div> 
   <a 
-    href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-Miguel Castro-%23007?" target="_blank">
+    href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-Miguel Castro-%23333?" target="_blank">
   </a>
   <a 
-    href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-miguelscastro18@gmail.com-%23007?&logo=gmail&logoColor=white" 
+    href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-miguelscastro18@gmail.com-%23333?&logo=gmail&logoColor=white" 
     target="_blank">
   </a>
 </div>
@@ -29,6 +29,9 @@ Self-taught for over four years now, and am currently graduating in Internet Sys
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
