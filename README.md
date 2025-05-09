@@ -1,11 +1,19 @@
-# Hi I'm Miguel
+# Miguel Castro
+Internet Systems Student
 <div> 
-  <a href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a 
+    href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-Miguel Castro-%23007?" target="_blank">
+  </a>
+  <a 
+    href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-miguelscastro18@gmail.com-%23007?&logo=gmail&logoColor=white" 
+    target="_blank">
+  </a>
 </div>
 
 <br>
-I’ve been self-taught for over four years now, and am currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications. I'm always up for new challenges.
+Passionate about coding and up to new challenges.
+<br>
+Self-taught for over four years now, and am currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
 <br>
 
 ## Stack
@@ -21,6 +29,7 @@ I’ve been self-taught for over four years now, and am currently graduating in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -30,15 +39,6 @@ I’ve been self-taught for over four years now, and am currently graduating in 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-</div>
-
-### Techs i know to some degree
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ### Tools
