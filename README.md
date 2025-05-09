@@ -4,7 +4,7 @@ Internet Systems Student
   <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-Miguel Castro-%23333?" target="_blank"></a> <a href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-miguelscastro18@gmail.com-%23333?&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+<br>
 Passionate about coding and up to new challenges.<br>
 <br>
 Self-taught for over four years now, and am currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
