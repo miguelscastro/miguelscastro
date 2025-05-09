@@ -1,8 +1,7 @@
 # Miguel Castro
 Internet Systems Student
 <div> 
-  <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-Miguel Castro-%23333?" target="_blank">
-  </a> <a href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-miguelscastro18@gmail.com-%23333?&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-Miguel Castro-%23333?" target="_blank"></a> <a href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-miguelscastro18@gmail.com-%23333?&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
