@@ -11,7 +11,7 @@ Self-taught for over four years now, and am currently graduating in Internet Sys
 <br>
 
 <br>
-Want to know more about what i do? visit my portfolio: **https://miguelscastro.vercel.app/**
+Want to know more about what i do? visit my portfolio: https://miguelscastro.vercel.app/
 
 ## Stack
 <div align="left">
