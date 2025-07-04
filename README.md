@@ -10,6 +10,8 @@ Passionate about coding and up to new challenges.<br>
 Self-taught for over four years now, and am currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
 <br>
 
+Want to know more about me and what i do? visit my portfolio: **https://miguelscastro.vercel.app/**
+
 ## Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
