@@ -9,7 +9,7 @@ Passionate about coding and up to new challenges.<br>
 <br>
 Self-taught for over two years now, and I'm currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
 <br>
-
+<br>
 Want to know more about what i can do? <a href="https://miguelscastro.vercel.app/">Check my portfolio!</a>
 
 
