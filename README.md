@@ -10,9 +10,7 @@ Passionate about coding and up to new challenges.<br>
 Self-taught for over two years now, and I'm currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
 <br>
 
-<a href="https://miguelscastro.vercel.app/" target="_blank" style="text-decoration: none; border-radius: 8px; padding: 0.5rem; background-color: #233333; color: #fff; margin-top: 1rem; display: inline-block; cursor: pointer;">
-  Visit my portfolio!
-</a>
+Want to know more about what i can do? <a href="https://miguelscastro.vercel.app/">Check my portfolio!</a>
 
 
 ## Stack
