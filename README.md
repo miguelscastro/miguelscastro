@@ -7,11 +7,13 @@ Internet Systems Student
 <br>
 Passionate about coding and up to new challenges.<br>
 <br>
-Self-taught for over four years now, and am currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
+Self-taught for over two years now, and I'm currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
 <br>
 
-<br>
-Want to know more about what i do? visit my portfolio: https://miguelscastro.vercel.app/
+<a href="https://miguelscastro.vercel.app/" target="_blank" style="text-decoration: none; border-radius: 8px; padding: 0.5rem; background-color: #233333; color: #fff; margin-top: 1rem; display: inline-block; cursor: pointer;">
+  Visit my portfolio!
+</a>
+
 
 ## Stack
 <div align="left">
@@ -42,4 +44,5 @@ Want to know more about what i do? visit my portfolio: https://miguelscastro.ver
 </div>
 
 ### Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
