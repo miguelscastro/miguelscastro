@@ -1,46 +1,37 @@
-# Miguel Castro
-Internet Systems Student
-<div> 
-  <a href="https://www.linkedin.com/in/miguelscastro/" target="_blank"><img src="https://img.shields.io/badge/-Miguel Castro-%23333?" target="_blank"></a> <a href ="mailto:miguelscastro18@gmail.com"><img src="https://img.shields.io/badge/-miguelscastro18@gmail.com-%23333?&logo=gmail&logoColor=white" target="_blank"></a>
+# 🚀 Miguel Castro | Software Engineer & Platform Enthusiast
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelscastro&show_icons=true&theme=tokyonight&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelscastro&layout=compact&theme=tokyonight&langs_count=8" height="170" alt="Top Languages" />
 </div>
 
-<br>
-Passionate about coding and up to new challenges.<br>
-<br>
-Self-taught for over two years now, and I'm currently graduating in Internet Systems. I’m focused on learning and improving my skills in Java and React, aiming to build efficient and scalable web applications.
-<br>
-<br>
-Want to know more about what i can do? <a href="https://miguelscastro.vercel.app/">Check my portfolio!</a>
+### 📬 Connect with me / Conecte-se comigo:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/miguelscastro/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:miguelscastro18@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">](https://miguelscastro.vercel.app/)
+
+---
 
 
-## Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo"  />
+### 👨‍💻 About Me
+I am a software developer focused on the **Java & Spring Boot** ecosystem, currently moving towards a **Platform Engineering** mindset. Studying Internet Systems, I dedicate my time to building scalable applications and automating modern infrastructures.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"  />
-  <img width="12" />
-</div>
+- 🔭 **Featured Project:** [Cakedesigner](https://github.com/miguelscastro/cakedesigner) - A full-stack ecosystem featuring React, Java, and Terraform.
+- ⚡ **Goal:** To learn more about microsservice architectures, code patterns and cloud.
 
-### Tools
+### 🛠️ Professional Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **Infrastructure** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) |
+
+---
+
+### 🧠 Tools & Extras
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
