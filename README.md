@@ -11,7 +11,6 @@
 ### 👨‍💻 About Me
 I am a software developer focused on the **Java & Spring Boot** ecosystem, currently moving towards a **Platform Engineering** mindset. Studying Internet Systems, I dedicate my time to building scalable applications and automating modern infrastructures.
 
-- 🔭 **Featured Project:** [Cakedesigner](https://github.com/miguelscastro/cakedesigner) - A full-stack ecosystem featuring React, Java, and Terraform.
 - ⚡ **Goal:** To learn more about microsservice architectures, code patterns and cloud.
 
 ### 🛠️ Professional Stack
@@ -28,5 +27,4 @@ I am a software developer focused on the **Java & Spring Boot** ecosystem, curre
 ### 🧠 Tools & Extras
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
