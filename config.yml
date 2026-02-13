@@ -65,10 +65,10 @@ galaxy_arms:
 projects:
   - repo: "miguelscastro/cakedesigner"
     arm: 0
-    description: "E-commerce fully customizable fullstack application with AWS provisioning via Terraform"
+    description: "E-commerce fully customizable fullstack application with AWS provisioning"
   - repo: "miguelscastro/ignite/tree/main/java/04-gestao-vagas"
     arm: 1
-    description: "Job management API built with Java Spring Boot, includes CI/CD pipelines, Terraform provisioning on AWS and Grafana/Prometheus"
+    description: "Job API built with Java Spring Boot, CI/CD pipelines, Terraform/AWS and Grafana/Prometheus"
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
 theme:
