@@ -62,11 +62,13 @@ galaxy_arms:
 #   repo: "owner/repo-name"   — GitHub repository path
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
-# projects:
-#   - repo: "miguelscastro/cakedesigner"
-#     arm: 0
-#     description: "E-commerce fully customizable fullstack application with AWS provisioning via Terraform"
-
+projects:
+  - repo: "miguelscastro/cakedesigner"
+    arm: 0
+    description: "E-commerce fully customizable fullstack application with AWS provisioning via Terraform"
+  - repo: "miguelscastro/ignite/tree/main/java/04-gestao-vagas"
+    arm: 1
+    description: "Job management API built with Java Spring Boot, includes CI/CD pipelines, Terraform provisioning on AWS and Grafana/Prometheus"
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
 theme:
