@@ -62,10 +62,10 @@ galaxy_arms:
 #   repo: "owner/repo-name"   — GitHub repository path
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
-projects:
-  - repo: "miguelscastro/cakedesigner"
-    arm: 0
-    description: "E-commerce fully customizable fullstack application with AWS provisioning via Terraform"
+# projects:
+#   - repo: "miguelscastro/cakedesigner"
+#     arm: 0
+#     description: "E-commerce fully customizable fullstack application with AWS provisioning via Terraform"
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
