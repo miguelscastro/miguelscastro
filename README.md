@@ -36,6 +36,7 @@
 I'm a Full Stack Developer who builds end-to-end applications and actually cares about where the code runs. My daily driver is **Java/Spring Boot** for the back and **React/TypeScript** for the front, but I don't stop there. I use **Terraform** to automate my **AWS** infrastructure because I believe a developer should understand the full lifecycle of their software.
 
 **Currently diving into:** Microservices, Design Patterns, and Cloud-native architectures.
+
 </details>
 
 <br/>
@@ -47,4 +48,7 @@ I'm a Full Stack Developer who builds end-to-end applications and actually cares
   <a href="https://www.linkedin.com/in/miguelscastro/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
+  <a href="https://miguelscastro.vercel.app/">
+  <img src="https://img.shields.io/badge/Website-080c14?style=for-the-badge&logo=icloud&logoColor=a78bfa&labelColor=080c14&color=080c14" alt="Portfolio"/>
+</a>
 </div>
