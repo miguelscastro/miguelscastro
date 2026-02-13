@@ -98,4 +98,6 @@ languages:
     - "Makefile"
     - "CMake"
     - "C"
-  max_display: 8 # Maximum number of languages to show
+    - "C++"
+    - "Swift"
+  max_display: 7 # Maximum number of languages to show
