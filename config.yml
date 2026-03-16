@@ -15,13 +15,12 @@ username: miguelscastro
 # Profile information displayed in the galaxy header
 profile:
   name: "Miguel C. Silva"
-  tagline: "Full Stack Developer"
+  tagline: "DevSecOps Engineer"
   # company: ""
   location: "Santos, SP"
   bio: |
     Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  # philosophy: '"The best code is the code that empowers others."'
+  # philosophy: '"Great code is the reliable one, not the perfect one."'
 
 # Social links displayed at the bottom of the profile
 social:
@@ -36,7 +35,7 @@ galaxy_arms:
   - name: "Frontend"
     color: "dendrite_violet"
     items:
-      - "Javascript"
+      - "JavaScript"
       - "TypeScript"
       - "ReactJS"
       - "NextJS"
@@ -44,11 +43,11 @@ galaxy_arms:
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Java"
-      - "Spring Boot"
-      - "Node.js"
+      - "Golang"
+      - "Java & Spring Boot"
+      - "NodeJS"
       - "PostgreSQL"
-      - "MySQL"
+      - "Redis"
   - name: "DevOps"
     color: "axon_amber"
     items:
