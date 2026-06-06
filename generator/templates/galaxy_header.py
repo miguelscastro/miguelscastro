@@ -1,6 +1,7 @@
 """SVG template: Galaxy Header — the signature spiral galaxy banner (850x280)."""
 
 import math
+from datetime import datetime, timezone
 from generator.utils import spiral_points, deterministic_random, esc, resolve_arm_colors
 
 # ── Module-level constants ──
@@ -497,4 +498,5 @@ def render(
   <text x="{CENTER_X}" y="26" text-anchor="middle" fill="{theme['text_bright']}" font-size="20" font-weight="bold" font-family="sans-serif">{esc(name)}</text>
   <text x="{CENTER_X}" y="44" text-anchor="middle" fill="{theme['text_dim']}" font-size="12" font-family="sans-serif">{esc(tagline)}</text>
   <text x="{CENTER_X}" y="{HEIGHT - 12}" text-anchor="middle" fill="{theme['text_faint']}" font-size="11" font-family="monospace" font-style="italic">{esc(philosophy)}</text>
+  <!-- generated:{datetime.now(timezone.utc).strftime('%Y-%m-%d')} -->
 </svg>'''
